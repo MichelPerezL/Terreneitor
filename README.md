@@ -1,10 +1,10 @@
 # Terreneitor
 Durante el curos de Fabricación Digital ME4705-1 - Otoño 2024, Se ha fabricado un auto que pueda ser controlado por un arduino con sus diferentes actuadores, para lo cual se han diseñado los diferentes sitemas que permitan este proposito.
 
-Los diseños en CAD se encuentran en este [enlace](https://grabcad.com/library/terreneitor-1) para ser fabricados.
-Los componentes comerciales se detallan en la tabla de [aquí](https://docs.google.com/spreadsheets/d/1DSrJ0_xuWaVBffNN5vSXRWbKLo0g__aeroXFZMOQHVI/edit?usp=sharing), en la cual se podrá encontrar las caracteristicas, unidades, precio y el proveedor. El costo estimado de estos componetes corresponde a 37.760 CLP.
-Las intrucciones de fabricación se encuentran Aquí, 
-Finalmente las instrucciones de ensamble se enecuentran aquí.
+Los diseños en CAD se encuentran en este [enlace](https://grabcad.com/library/terreneitor-1) para ser fabricados.\
+Los componentes comerciales se detallan en la tabla de [aquí](https://docs.google.com/spreadsheets/d/1DSrJ0_xuWaVBffNN5vSXRWbKLo0g__aeroXFZMOQHVI/edit?usp=sharing), en la cual se podrá encontrar las caracteristicas, unidades, precio y el proveedor. El costo estimado de estos componetes corresponde a 37.760 CLP.\
+Las intrucciones de fabricación se encuentran [AQUÍ](https://github.com/MichelPerezL/Terreneitor/blob/main/Fabricación.md), 
+Finalmente las instrucciones de ensamble se enecuentran [AQUÍ](https://github.com/MichelPerezL/Terreneitor/blob/main/Ensamble.md).
 
 
 
