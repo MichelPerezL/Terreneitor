@@ -3,7 +3,7 @@ Durante el curos de Fabricación Digital, Se ha fabricado un auto que pueda ser 
 
 Los archivos CAD se encuentran en este [enlace](https://grabcad.com/library/terreneitor-1)., y las intrucciones de fabricación se encuentran Aquí, finalmente las instrucciones de ensamble se enecuentran aquí.
 
-Los componentes comerciales se detallan en la tabla de [aquí](https://docs.google.com/spreadsheets/d/1DSrJ0_xuWaVBffNN5vSXRWbKLo0g__aeroXFZMOQHVI/edit?usp=sharing), en la cual se podrá encontrar las caracteristicas, unidades, precio y el proveedor. El costo estimado de estos componetes corresponde a 32.770 CLP.
+Los componentes comerciales se detallan en la tabla de [aquí](https://docs.google.com/spreadsheets/d/1DSrJ0_xuWaVBffNN5vSXRWbKLo0g__aeroXFZMOQHVI/edit?usp=sharing), en la cual se podrá encontrar las caracteristicas, unidades, precio y el proveedor. El costo estimado de estos componetes corresponde a 37.760 CLP.
 
 <img width="850" alt="Captura de pantalla 2024-07-19 a la(s) 02 36 21" src="https://github.com/user-attachments/assets/6811ed54-bc77-41d9-b779-654ceeae44eb">
 
