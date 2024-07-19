@@ -14,5 +14,5 @@ Dejar reposar respetando los tiempos de espera del fabricante.
 Finalmente, realizar el desmoldeo de los neumáticos.
 Se utiliza una barra de 6 mm para los ejes, los cuales deben ser cortados de la siguiente manera:
 
-a. Una barra de 134.6 mm para el eje trasero.
+a. Una barra de 134.6 mm para el eje trasero.\
 b. Dos barras de 24 mm para los ejes delanteros.
