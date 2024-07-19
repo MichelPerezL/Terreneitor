@@ -12,5 +12,4 @@ Finalmente, las instrucciones de ensamblaje se encuentran [AQUÍ](https://github
 
 # Trabajos posteriores
 
-Continuar con las conexiones con un Arduino Uno, utilizando un puente H.
-Ingresar el código de control.
+Continuar con las conexiones con un Arduino Uno utilizando un puente H e ingresar el código de control.
